@@ -52,6 +52,7 @@ Build a simple web interface using Streamlit for real-time prediction.
 📁 Project Structure
 Student-Marks-Prediction/
 │
+
 ├── data/                
 ├── notebooks/            
 ├── model/                
