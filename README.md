@@ -1,4 +1,5 @@
 🎯 Student Marks Prediction
+
 📘 Overview
 
 The Student Marks Prediction project aims to predict students’ marks based on various factors such as study hours, attendance, and past academic performance. Using Machine Learning, the model helps teachers and students understand how different factors affect academic success and provides insights to improve learning outcomes.
