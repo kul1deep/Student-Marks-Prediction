@@ -49,4 +49,3 @@ Student-Marks-Prediction
 ├── requirements.txt    
 └── README.md            
 
-
