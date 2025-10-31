@@ -47,5 +47,5 @@ Student-Marks-Prediction
 ├── model/                
 ├── app.py                
 ├── requirements.txt    
-└── README.md            
+└── README.md  
 
